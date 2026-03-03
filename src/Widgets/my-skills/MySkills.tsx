@@ -89,7 +89,7 @@ function MySkills() {
                                 <li>Ukrainian: Native</li>
                                 <li>Russian: Fluent</li>
                                 <li>English: A2 (learning to improve)</li>
-                                <li>Polish: A1 (learning to improve)</li>
+                                <li>Polish: A2-B1 (learning to improve)</li>
                             </ul>
                         </div>
                     </motion.div>
